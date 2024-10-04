@@ -1,3 +1,8 @@
+.main {
+  background-color:rgb(26, 26, 26);
+  color: #e7e7e7;
+  }
+
 button {
     display: flex;
     align-items: center;
